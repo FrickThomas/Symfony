@@ -1,0 +1,3 @@
+mc_platform:
+    resource: "@MCPlatformBundle/Resources/config/routing.yml"
+    prefix:   /platform
