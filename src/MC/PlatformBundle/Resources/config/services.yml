@@ -1,0 +1,4 @@
+services:
+#    mc_platform.example:
+#        class: MC\PlatformBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]
